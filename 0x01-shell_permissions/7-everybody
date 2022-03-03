@@ -1,2 +1,2 @@
 #!/bin/bin
-chmod 111 hello
+chmod +x hello
