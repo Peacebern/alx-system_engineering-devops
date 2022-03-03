@@ -11,3 +11,4 @@ chmod 753 to grant various permissions
 changing modes
 chmod a+X * to give rights to sub directories
 mkdir -m 751 to make directory
+chrgp using this command to change group
