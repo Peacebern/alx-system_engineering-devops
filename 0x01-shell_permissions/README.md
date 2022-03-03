@@ -10,3 +10,4 @@ chmod 007 using this command to not give permissions to owner and group but givi
 chmod 753 to grant various permissions
 changing modes
 chmod a+X * to give rights to sub directories
+mkdir -m 751 to make directory
