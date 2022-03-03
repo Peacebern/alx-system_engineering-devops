@@ -9,3 +9,4 @@ chmod 111 using this command to grant execution rights to everyone
 chmod 007 using this command to not give permissions to owner and group but giving all permissons to other users
 chmod 753 to grant various permissions
 changing modes
+chmod a+X * to give rights to sub directories
