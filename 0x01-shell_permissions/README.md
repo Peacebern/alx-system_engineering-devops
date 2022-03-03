@@ -3,3 +3,4 @@ whoami using this command to identify the current user
 groups using this command to identify all the groups of the current user
 chown using this command to change owner
 touch using this command to create an empty file
+execute using the chmod command to grant owner execution rights to file hello
