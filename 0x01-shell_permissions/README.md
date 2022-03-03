@@ -13,3 +13,4 @@ chmod a+X * to give rights to sub directories
 mkdir -m 751 to make directory
 chrgp using this command to change group
 using chgrp to change owner to group owner
+changing owners
