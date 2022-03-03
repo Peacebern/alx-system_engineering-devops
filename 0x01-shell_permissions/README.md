@@ -7,3 +7,4 @@ execute using the chmod command to grant owner execution rights to file hello
 execution rights both owner and group but only read to users
 chmod 111 using this command to grant execution rights to everyone
 chmod 007 using this command to not give permissions to owner and group but giving all permissons to other users
+chmod 753 to grant various permissions
