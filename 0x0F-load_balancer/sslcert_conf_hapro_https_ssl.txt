@@ -92,3 +92,5 @@ backend web-backend
 Note: you can use the following sites to to trouble shoot for errors in the certificate or haproxy;
 https://www.digitalocean.com/community/tutorial_series/common-haproxy-errors#troubleshooting-with-the-ip-utility
 https://www.digitalocean.com/community/tutorials/haproxy-network-error-cannot-bind-socket#troubleshooting-with-ss-and-ps-utilities
+
+Note: Do not forget to give your server access to port 443/tcp by using "sudo ufw allow 443/tcp"
